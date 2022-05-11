@@ -8,5 +8,5 @@
 - 🌱 Learning about **Clean Code Principles**
 - 📫 Reach me: **ruveydakardelcetin@gmail.com**
 - 🔗 Feel free connect [with me](https://www.linkedin.com/in/kardelruveydacetin/)
-- ⚡️ Fun fact: I'm a fan of Basketball,Kickboxing Reading, Listening Music and Watching Film or Tv Series.
+- ⚡️ Fun fact: I'm a fan of Basketball,Kickboxing, Reading, Listening Music and Watching Film or Tv Series.
 
