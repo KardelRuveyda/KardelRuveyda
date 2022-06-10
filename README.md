@@ -1,4 +1,4 @@
-### Hi  👋
+### Hi I'm Kardel Ruveyda 👋
 
 #### I'm a Full-Stack Developer working in Istanbul, Turkey. 🇹🇷
 
