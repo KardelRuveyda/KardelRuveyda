@@ -1,6 +1,6 @@
 ### Hi I'm Kardel Ruveyda 👋
 
-#### I'm a Full-Stack Developer working in Istanbul, Turkey. 🇹🇷
+#### I'm a Senior Software Developer working in Istanbul, Turkey. 🇹🇷
 
 - 🔭 Currently working at **Dogus Technology** (.NET 2.2, 3.1,6.0 API & React.js) 
 - 🔍 Currenty searching **Net 7,Machine Learning, Python,Microservice,Design Patterns**
