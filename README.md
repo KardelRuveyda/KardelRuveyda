@@ -7,7 +7,7 @@ I am Mathematical & Computer Engineer.
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [ruveydakardelcetin@gmail.com](mailto:ruveydakardelcetin@gmail.com)
 * 🚀  I'm currently working on [Dogus Technology](http://https://www.d-teknoloji.com.tr/)
-* 🧠  I'm learning Net 7,Machine Learning, Python,Microservice,Design Pattern, Svelte.js
+* 🧠  I'm learning Net 7,Machine Learning, Python,Microservice,Design Pattern, Dart, Flutter, Go
 
 ### Skills
 
