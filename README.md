@@ -10,7 +10,7 @@
 - 🏆 Proudly recognized as a **Microsoft MVP (Most Valuable Professional) .NET**.
 - 🔭 I’m currently working at **[Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)** as a Full Stack Developer.
 - 📝 I regularly write technical articles on **[Medium](https://ruveydakardelcetin.medium.com)**.
-- 🌱 Currently exploring **System Design Review, .NET 8, Machine Learning, Python, Microservices, Design Patterns, and Go**.
+- 🌱 Currently exploring System Design Review, .NET 8, Machine Learning, Python, Microservices, Design Patterns, Go, and AI LLMs (Large Language Models), RAG, LangChain, LangGraph, and AI Agents. Passionate about .NET technologies, AI-driven architectures, and backend system design & architectures.
 - 🎓 I'm a part-time **trainer & lecturer** at **Sektor Kampüste**. 
 - 📫 Feel free to reach out to me via **[Email](mailto:ruveydakardelcetin@gmail.com)**.
   
