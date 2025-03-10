@@ -51,11 +51,13 @@
 ### 🤖 **AI & LLMs**
 <div align="center">
   <a href="https://python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/langchain.svg" alt="LangChain" height="50"/></a>
-  <a href="https://www.langgraph.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/langgraph.svg" alt="LangGraph" height="50"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/openai.svg" alt="OpenAI" height="50"/></a>
-  <a href="https://ai.google.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gemini.svg" alt="Gemini AI" height="50"/></a>
-  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rag.svg" alt="RAG" height="50"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain--logo.png?itok=JPlfUXXw" alt="LangChain" height="50"/></a>
+  <a href="https://www.langgraph.com/" target="_blank"><img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e15b7842/LangGraph_icon.png" alt="LangGraph" height="50"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="OpenAI" height="50"/></a>
+  <a href="https://ai.google.dev/" target="_blank"><img src="https://img.freepik.com/premium-vector/gemini-logo-icon_1273375-853.jpg" alt="Gemini AI" height="50"/></a>
+  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://styles.redditmedia.com/t5_4wxz5h/styles/communityIcon_0doymzw2usjd1.png" alt="RAG" height="50"/></a>
+  <a href="https://github.com/hwchase17/rag" target="_blank"><img src="https://t4.ftcdn.net/jpg/07/56/11/69/360_F_756116963_MKdL7O7BKH1ZHicpGXHd9ys9xDMhkGr2.jpg" alt="LLM" height="50"/></a>
+
 </div>
 
 </td><td valign="top" width="33%">
