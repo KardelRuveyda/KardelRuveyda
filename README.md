@@ -2,7 +2,7 @@
   
 ![image](https://github.com/user-attachments/assets/91c34172-3fb6-4fbf-aab5-4c8c786ef76a)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/brand-guide/main/mvp/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png" alt="Microsoft MVP" height="60" style="display: block; margin: auto;"/>
+  <img src="https://github.com/user-attachments/assets/91c34172-3fb6-4fbf-aab5-4c8c786ef76a" alt="Microsoft MVP" height="60" style="display: block; margin: auto;"/>
 </div>
 
 - 🏆 Proudly recognized as a **Microsoft MVP (Most Valuable Professional) .NET**.
