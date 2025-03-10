@@ -41,7 +41,7 @@
   <a href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50"/></a>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rabbitmq.svg" alt="RabbitMQ" height="50"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kafka.svg" alt="Kafka" height="50"/></a>
-  <a href="https://www.couchbase.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/couchbase.svg" alt="Couchbase" height="50"/></a>
+  <a href="https://www.couchbase.com/" target="_blank"><img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Couchbase-Monitoring.component.complex-narrative-xl.ts=1689292284780.png/content/adobe-cms/us/en/products/instana/supported-technologies/couchbase-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="Couchbase" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></a>
 </div>
 
