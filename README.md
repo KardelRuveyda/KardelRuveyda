@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **[Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)** as a Full Stack Developer.
 - 📝 I regularly write technical articles on **[Medium](https://ruveydakardelcetin.medium.com)**.
 - 🌱 Currently exploring **System Design Review, .NET 8, Machine Learning, Python, Microservices, Design Patterns, and Go**.
-- 🎓 I'm a part-time **trainer & lecturer** at **Sektor Kampüste. 
+- 🎓 I'm a part-time **trainer & lecturer** at **Sektor Kampüste**. 
 - 📫 Feel free to reach out to me via **[Email](mailto:ruveydakardelcetin@gmail.com)**.
   
 
