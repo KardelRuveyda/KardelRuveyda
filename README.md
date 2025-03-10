@@ -1,6 +1,5 @@
 ### <div align="center">Hi,I'm Kardel Ruveyda Çetin. A passionate Full Stack Developer from Turkey 👩‍💻 🚀</div>  
   
-![image](https://github.com/user-attachments/assets/91c34172-3fb6-4fbf-aab5-4c8c786ef76a)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/91c34172-3fb6-4fbf-aab5-4c8c786ef76a" alt="Microsoft MVP" height="60" style="display: block; margin: auto;"/>
 </div>
