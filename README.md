@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **[Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)** as a Full Stack Developer.
 - 📝 I regularly write technical articles on **[Medium](https://ruveydakardelcetin.medium.com)**.
 - 🌱 Currently exploring **System Design Review, .NET 8, Machine Learning, Python, Microservices, Design Patterns, and Go**.
-- 🎓 I'm a part-time **trainer & lecturer** at **Sektor Kampüste (Ankara University, Uludağ University)** and **Techcareer.net**.
+- 🎓 I'm a part-time **trainer & lecturer** at **Sektor Kampüste. 
 - 📫 Feel free to reach out to me via **[Email](mailto:ruveydakardelcetin@gmail.com)**.
   
 
@@ -40,7 +40,7 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50"/></a>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" alt="RabbitMQ" height="50"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kafka.svg" alt="Kafka" height="50"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="Kafka" height="50"/></a>
   <a href="https://www.couchbase.com/" target="_blank"><img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Couchbase-Monitoring.component.complex-narrative-xl.ts=1689292284780.png/content/adobe-cms/us/en/products/instana/supported-technologies/couchbase-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="Couchbase" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/></a>
 </div>
