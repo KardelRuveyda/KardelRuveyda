@@ -1,10 +1,7 @@
 ### <div align="center">Hi,I'm Kardel Ruveyda Çetin. A passionate Full Stack Developer from Turkey 👩‍💻 🚀</div>  
   
-<div align="center">!
-  
-[MVP_Badge_Horizontal_Preferred_Blue3005_RGB](https://github.com/user-attachments/assets/0c0122d3-c777-4577-b27c-bbb66b0f7e0d)
-
-[  <img src="https://raw.githubusercontent.com/microsoft/brand-guide/main/mvp/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png" alt="Microsoft MVP" height="80"/>](url)
+<div align="center">
+  ![image](https://github.com/user-attachments/assets/d0fe220f-2c95-4cd2-85ea-111428412b12)
 </div>
 
 - 🏆 Proudly recognized as a **Microsoft MVP (Most Valuable Professional) .NET**.
