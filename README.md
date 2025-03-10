@@ -24,7 +24,7 @@
   <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>
   <a href="https://mui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50"/></a>
-  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/shadcn.svg" alt="ShadCN" height="50"/></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN" height="50"/></a>
 </div>
 
 </td><td valign="top" width="33%">
