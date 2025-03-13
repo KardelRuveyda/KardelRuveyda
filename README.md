@@ -81,6 +81,14 @@
 <br/>  
 
 
+## 🌟 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KardelRuveyda&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KardelRuveyda&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KardelRuveyda&theme=github-dark" alt="GitHub Activity Graph"/>
+</div>
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/kardelruveydacetin" target="_blank">
