@@ -8,7 +8,7 @@
 <br/>  
 
 - 🏆 Proudly recognized as a **Microsoft MVP (Most Valuable Professional) .NET**.
-- 🔭 I’m currently working at **[Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)** as a Full Stack Developer.
+- 🔭 I’m currently working at **[Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)** as a Software Development Lead.
 - 📝 I regularly write technical articles on **[Medium](https://ruveydakardelcetin.medium.com)**.
 - 🌱 Currently exploring **System Design Review**, **Machine Learning**, **Python**, **Microservices**, **Design Patterns** and **AI LLMs (Large Language Models)**, **RAG**, **LangChain**, **LangGraph**, and **AI Agents**. Passionate about **.NET technologies**, **AI-driven architectures**, and **backend system design & architectures**.
 - 🎓 I'm a part-time **trainer & lecturer** at **Sektor Kampüste**. 
@@ -80,18 +80,6 @@
 
 <br/>  
 
-
-## 🌟 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KardelRuveyda&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KardelRuveyda&theme=radical" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KardelRuveyda&theme=github-dark" alt="GitHub Activity Graph"/>
-</div>
-
-## 💡 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KardelRuveyda&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</div>
 
 ## Connect with me  
 <div align="center">
