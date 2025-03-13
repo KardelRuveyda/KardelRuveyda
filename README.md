@@ -88,6 +88,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KardelRuveyda&theme=github-dark" alt="GitHub Activity Graph"/>
 </div>
 
+## 💡 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KardelRuveyda&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</div>
 
 ## Connect with me  
 <div align="center">
