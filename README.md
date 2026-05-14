@@ -1,13 +1,9 @@
 ### <div align="center">Hi,I'm Kardel Ruveyda Çetin. A passionate Full Stack Developer from Turkey 👩‍💻 🚀</div>  
   
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/9bd340e0-33e3-41a6-9c9d-5fd73a9a4125" alt="Microsoft MVP" height="100" style="display: block; margin: auto;"/>
-</div>
-
 <br/>  
 <br/>  
 
-- 🏆 Proudly recognized as a **Microsoft MVP (Most Valuable Professional) .NET**.
+- 🏆 Proudly recognized as a former **Microsoft MVP (Most Valuable Professional) .NET**.
 - 📝 I regularly write technical articles on **[Medium](https://ruveydakardelcetin.medium.com)**.
 - 🌱 Currently exploring **System Design Review**, **Machine Learning**, **Python**, **Microservices**, **Design Patterns** and **AI LLMs (Large Language Models)**, **RAG**, **LangChain**, **LangGraph**, and **AI Agents**. Passionate about **.NET technologies**, **AI-driven architectures**, and **backend system design & architectures**.
 - 🎓 I'm a part-time **trainer & lecturer** at **Sektor Kampüste**. 
