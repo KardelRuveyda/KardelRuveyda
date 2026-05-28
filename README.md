@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi there, I''m Kardel Ruveyda Çetin 👋</h1>
+﻿<h1 align="center">Hi there, I'm Kardel Ruveyda Çetin 👋</h1>
 <h3 align="center">☁️ Digital Cloud Solution Architect @ Microsoft  |  🏆 Former Microsoft MVP .NET</h3>
 
 <p align="center">
